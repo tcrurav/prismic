@@ -1,0 +1,21 @@
+{
+  "id": "algorepe",
+  "label": "AlgoRepe",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "algo_con_imagen": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    }
+  }
+}

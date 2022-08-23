@@ -1,0 +1,9 @@
+import MyComponent from '../../../../slices/OtraSlice';
+
+export default {
+  title: 'slices/OtraSlice'
+}
+
+
+export const _Default = () => <MyComponent slice={{"variation":"default","version":"sktwi1xtmkfgx8626","items":[{}],"primary":{"description":[{"type":"paragraph","text":"Sunt tempor commodo nisi. Et sunt eu laborum mollit incididunt nostrud.","spans":[]}],"imagencita":{"dimensions":{"width":900,"height":500},"alt":null,"copyright":null,"url":"https://images.unsplash.com/photo-1601933973783-43cf8a7d4c5f"}},"slice_type":"otra_slice","id":"_Default"}} />
+_Default.storyName = ''

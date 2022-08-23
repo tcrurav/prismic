@@ -1,0 +1,47 @@
+{
+  "_cts": {
+    "supermain": {},
+    "otra": {},
+    "algorepe": {}
+  },
+  "slices": {
+    "TextImageRight": {
+      "default": {
+        "primary": {
+          "title": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
+          },
+          "description": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          },
+          "algo": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    },
+    "OtraSlice": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "AlgoConImagen": {
+      "default": {
+        "primary": {
+          "pagoogle": {
+            "content": "https://www.google.com"
+          }
+        }
+      }
+    }
+  }
+}

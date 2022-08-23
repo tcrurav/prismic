@@ -1,0 +1,38 @@
+[
+  {
+    "variation": "default",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [
+      {
+        "textillo": [
+          {
+            "type": "paragraph",
+            "text": "Laborum laboris sunt Lorem magna occaecat est voluptate mollit ullamco voluptate. Non deserunt pariatur aliqua laboris nostrud proident irure aute officia sunt. Amet sunt magna officia minim non do et mollit quis ullamco.",
+            "spans": []
+          }
+        ]
+      }
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Voyage",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Non labore Lorem exercitation reprehenderit ea proident sit. Enim dolor ut sint do laborum aute. Aliqua laborum dolor anim incididunt Lorem reprehenderit magna reprehenderit laborum eu laboris nostrud eiusmod.",
+          "spans": []
+        }
+      ],
+      "pagoogle": {
+        "link_type": "Web",
+        "url": "https://www.google.com"
+      }
+    },
+    "slice_type": "algo_con_imagen"
+  }
+]
